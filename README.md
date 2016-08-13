@@ -1,10 +1,12 @@
 <img src="http://i.imgur.com/VqmP8Q4.png">
 
 ## Eclipse Origins
-Legacy VB6 open-source MMORPG engine discontinued in 2011
+Legacy VB6 open-source ORPG engine discontinued in 2011
 
 ### About Eclipse Origins
-TBC
+Eclipse Origins was a modification of Mirage Source, an open-source ORPG made in VB6. It was designed to allow people with no programming knowledge to make their own online persistent world RPG.
+
+Whilst flawed, it spawned a very strong development community that still runs today.
 
 ### How to use
 Eclipse Origins was discontinued in 2011. As such, the best way to find resources you need is to use the Way Back Machine to find active pages on the original website from 2008 - 2011.
@@ -24,25 +26,32 @@ There are many more in-depth user-made tutorials on the original forum. You can 
 [Forum snapshot from 2011](https://web.archive.org/web/20110122113006/http://www.touchofdeathforums.com/smf/index.php)
 
 ### Videos
-TBC
+Crystalshire.
+http://www.youtube.com/watch?v=yYq3T5Dc-e4
+
+[![Crystalshire](http://img.youtube.com/vi/yYq3T5Dc-e4/0.jpg)](http://www.youtube.com/watch?v=yYq3T5Dc-e4)
+
+Silverdale.
+https://www.youtube.com/watch?v=tR-FkkMPJCc
+
+[![Silverdale](http://img.youtube.com/vi/tR-FkkMPJCc/0.jpg)](http://www.youtube.com/watch?v=tR-FkkMPJCc)
+
+Nin Online.
+https://www.youtube.com/watch?v=X8Ms8KYWVhI
+
+[![Nin Online](http://img.youtube.com/vi/X8Ms8KYWVhI/0.jpg)](http://www.youtube.com/watch?v=X8Ms8KYWVhI)
+
+DarkStory.
+https://www.youtube.com/watch?v=n-MRzNLxr2A
+
+[![DarkStory](http://img.youtube.com/vi/n-MRzNLxr2A/0.jpg)](http://www.youtube.com/watch?v=n-MRzNLxr2A)
 
 ### Screenshots
-Player to player trading
+Crystalshire
+![Crystalshire](http://i.imgur.com/NKcW9gs.png)
 
-![Player to player trading](http://i.imgur.com/UbkD1lg.jpg)
+Silverdale Online
+![Silverdale Online](http://i.imgur.com/fioXu23.png)
 
-Modified version of EO
-
-![Modified version of EO](http://i.imgur.com/noLacGp.png)
-
-DirectX8 version
-
-![DirectX8 version](http://i.imgur.com/ji8Vquc.png)
-
-Game made in EO
-
-![Game made in EO](http://i.imgur.com/bjr9GOw.jpg)
-
-Another game made in EO
-
-![Another game made in EO](http://i.imgur.com/DwPvVtQ.png)
+Nin Online
+![Nin Online](http://i.imgur.com/dlkt2y7.png)
